@@ -30,7 +30,7 @@ Every character must match. If it differs, do not run the file; delete it and do
 
 > Every installer on this page is published from this repository's releases. A build offered anywhere else, including a forum attachment or a third-party APK site, is not one of these files.
 
-## What this repository is for
+## What this repository is for?
 
 This is the home of the Vidulum Wallet desktop application and the only place its installers are published. Three files ship for v2.2.1: a Windows executable, a macOS disk image and a Linux archive. Each one is listed above with the exact filename, the platform it runs on and the checksum of the file you should receive.
 
